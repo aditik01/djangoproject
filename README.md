@@ -1,8 +1,7 @@
 # Foodanic Recipes 🥘 
 
-A Django CRUD app tutorial published on [Dev.to](https://dev.to/vladyslavnua/how-to-build-a-django-web-app-from-scratch-tutorial-5bp0), [Hackernoon](https://hackernoon.com/u/vladyslav), and [Medium](https://vladyslav-nykoliuk.medium.com/how-to-build-a-django-web-app-from-scratch-tutorial-20034f0a3043). Features include User Authentication, CRUD operations, Markdown Field support, Live deployment to Heroku.
+A Django CRUD app
 
-[Preview Live](https://foodanic.herokuapp.com/)
 
 ## Local Installation
 
@@ -24,15 +23,3 @@ python manage.py migrate
 # run the app
 python manage.py runserver
 ```
-
-## Troubleshooting 🐞
-
-
-If you come across any bugs/issues with the code, feel free to open a [new issue](https://github.com/vladyslavnUA/foodanic/issues) in the repo. If you experience technical issues, you can always do a quick Google search to see if someone has encountered a similar Django-related issue before.
-
-
-## Contributing 💻
-[Pull requests](https://github.com/vladyslavnUA/foodanic/pulls) are welcome. For major changes, please open an issue first to discuss what you would like to change. Make sure to run tests and migrations as appropriate.
-
-## License 📜
-[MIT](https://github.com/vladyslavnUA/foodanic/blob/main/LICENSE)
